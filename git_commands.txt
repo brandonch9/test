@@ -1,0 +1,6 @@
+git pull
+git add -A
+git commit -m "made changes"
+esc :wq
+git clone url
+git push
